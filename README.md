@@ -1,17 +1,17 @@
-# weather-bot-for-telegram
+# bot-translator
 
-libs: pytegrambotapi, pyowm
+libs:  telebot, googletrans
 
 # How it works
 
 1) generate your bot by @BOTFather
-2) generate api key on openweathermap.org
-3) start: python simple_bot_tg.py
+2) paste token in token field in config.py
+3) start: python bot.py
 
 # Screenshots
 
-[Image alt](https://github.com/hffmn/weather-bot-for-telegram/raw/master/11121.png)
+
 
 # Use
 
-U can find it by name: echochatbotfortg
+U can find it by name: @miapo_bot

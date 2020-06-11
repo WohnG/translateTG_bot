@@ -10,7 +10,7 @@ libs:  telebot, googletrans
 
 # Screenshots
 
-
+<img src="bot.png">
 
 # Use
 
